@@ -17,5 +17,11 @@ pip install rich ipwhois
 
 ```Powershell
 python "C:\Users\User\Downloads\LxckyTools\lxckytools.py"
+```
+
+# disclaimer 
+
+the restorecord dataset is around a year old and this tool will not provide every discord users ip nor do we claim to
+itll only retrive ip data of users that was in the restorecord dataset. 
 
 
