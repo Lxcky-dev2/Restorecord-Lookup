@@ -13,9 +13,9 @@ You just need Python and two libraries:
 
 ```bash
 pip install rich ipwhois
+```
 
-Or u can run 
+```Powershell
+python lxckytools.py
 
-cd /d "C:\Users\User\Downloads\LxckyTools" & python -m pip install rich ipwhois & python lxckytools.py
 
-to install and run the script 
