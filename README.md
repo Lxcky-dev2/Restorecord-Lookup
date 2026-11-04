@@ -16,6 +16,6 @@ pip install rich ipwhois
 ```
 
 ```Powershell
-python lxckytools.py
+python "C:\Users\User\Downloads\LxckyTools\lxckytools.py"
 
 
